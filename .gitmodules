@@ -1,0 +1,3 @@
+[submodule "cs5223-distributed-systems"]
+	path = cs5223-distributed-systems
+	url = git@github.com:Isabella-L/cs5223.git
